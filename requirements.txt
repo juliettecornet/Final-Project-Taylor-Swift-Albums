@@ -1,0 +1,6 @@
+pandas
+nltk
+string
+matplotlib
+seaborn
+worldcloud
