@@ -1,1 +1,2 @@
-# Final-Project-Taylor-Swift-Albums
+# Final Project - Juliette Cornet
+## Taylor Swift ALbums Analysis 
