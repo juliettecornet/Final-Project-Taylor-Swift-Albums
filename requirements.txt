@@ -1,6 +1,5 @@
 pandas
 nltk
-string
 matplotlib
 seaborn
 wordcloud
