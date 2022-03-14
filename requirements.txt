@@ -3,4 +3,8 @@ nltk
 string
 matplotlib
 seaborn
-worldcloud
+wordcloud
+multidict
+numpy
+os
+re
