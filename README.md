@@ -1,5 +1,5 @@
 # Final Project - Juliette Cornet
-## Taylor Swift ALbums Analysis 
+## Taylor Swift Albums Analysis 
 
 This repository contains the notebook for my final project, a requirements.txt file for Binder containing all the libraries I've imported and this Readme markdown file. 
 
